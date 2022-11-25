@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
+
+a{
+  text-decoration: none;
+  color: #000;
+}
+.logo a {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Hind Siliguri;
+}
+ul.navbar-nav.m-auto {
+  font-size: 23px;
+  font-weight: bold;
+}
+li.nav-item {
+  margin: 15px;
+  border: 1px solid;
+  padding: 2px;
+  border-radius: 10px;
+  background: white;
+  color: #fff !important;
+  font-family: Hind Siliguri;
+}
+span.heading h1 {
+  color: blue;
+  font-size: 89px;
+}
+span.heading h1 {
+  color: blue;
+  font-size: 78px;
+  font-family: 'Hind Siliguri', sans-serif;
+  font-weight: bold;
+}
+.container.about p {
+  font-size: 26px;
+  font-weight: 500;
+}
