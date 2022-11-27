@@ -62,3 +62,11 @@ img.img-fluid.schoolimage {
   border: 6px solid #000;
   border-radius: 10px;
 }
+h1.font.font-weight-bold.atitle {
+  font-weight: bold;
+}
+h4.font.font-weight-bold.ades {
+  font-size: 34px;
+  /* letter-spacing: 0px; */
+  /* word-spacing: 0; */
+}
