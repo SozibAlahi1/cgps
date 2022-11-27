@@ -30,7 +30,7 @@ function about() {
           <br></br><br></br>
           <div className='row'>
           <div className='col-md-5'>
-          <img src='technical support.png' className='img-fluid schoolimage mb-4' alt='playground' />
+          <img src='technicalsupport.png' className='img-fluid schoolimage mb-4' alt='playground' />
             </div>
             <div className='col-md-7'>
                 <h1 className='font font-weight-bold atitle'>সেরা সাপোর্ট </h1>
