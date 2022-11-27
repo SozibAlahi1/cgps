@@ -28,11 +28,37 @@ span.heading h1 {
 }
 span.heading h1 {
   color: blue;
-  font-size: 78px;
+  font-size: 70px;
   font-family: 'Hind Siliguri', sans-serif;
   font-weight: bold;
 }
 .container.about p {
   font-size: 26px;
   font-weight: 500;
+}
+h3.title {
+  font-weight: bold;
+  text-align: justify;
+  margin-bottom: 14px;
+  font-family: 'Hind Siliguri';
+  margin-top: 22px;
+}
+h4.description {
+  font-family: 'Hind Siliguri';
+}
+.text-center.sectiontitle {
+  font-family: 'Hind Siliguri';
+  font-weight: bold;
+  color: red;
+  font-size: 3.7rem;
+}
+p.aboutdes.mt-3 {
+  font-family: 'Hind Siliguri';
+}
+.font{
+  font-family: 'Hind Siliguri';
+}
+img.img-fluid.schoolimage {
+  border: 6px solid #000;
+  border-radius: 10px;
 }
