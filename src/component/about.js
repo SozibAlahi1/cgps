@@ -1,11 +1,12 @@
 import React from 'react'
 import Header from './Header';
 import Footer from './Footer';
+import { FaInfo } from "react-icons/fa";
 function about() {
   return (
     <>
     <Header />
-      <h1 className='text-center shadow p-3 mb-5 bg-body rounded font'> আমাদের সম্পর্কে জানুন</h1>
+      <h1 className='text-center shadow p-3 mb-5 bg-body rounded font'><FaInfo /> আমাদের সম্পর্কে জানুন</h1>
         <div className='container'>
           <div className='row'>
           <div className='col-md-5'>
@@ -39,7 +40,11 @@ function about() {
           </div>
           <br></br><br></br>
         </div>
-      
+        <section className='teacherPanel'>
+            <div className='container'>
+                
+            </div>
+        </section>
         <Footer />
 
 

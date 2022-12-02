@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { HiChevronDoubleRight } from "react-icons/hi";
 function Hero() {
   return (
     <>
@@ -16,7 +16,7 @@ function Hero() {
             </div>
             
         </div>
-        <button className='btn btn-primary btn-lg'> আরো জানুন</button>
+        <button className='btn btn-primary btn-lg'>  আরো জানুন <HiChevronDoubleRight /></button>
       </div>
       <br></br>
       <hr></hr>

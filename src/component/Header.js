@@ -1,12 +1,13 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import { FaSchool } from "react-icons/fa";
 function Header() {
   return (
     <>
       <nav class="navbar navbar-expand-lg bg-light shadow p-3 mb-5 bg-body rounded">
   <div class="container-fluid">
     <div className='logo'>
-   <NavLink to='/'>চকছাতারী প্রাইমারী স্কুল</NavLink> 
+   <NavLink to='/'><FaSchool />  চকছাতারী প্রাইমারী স্কুল</NavLink> 
    </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
